@@ -1,0 +1,4 @@
+#!/bin/bash
+#ignore mac DS files
+
+.gitignore project.log
